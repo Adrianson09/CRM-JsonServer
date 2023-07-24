@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eduardo",
+      "email": "adrian@correo.com",
+      "telefono": "70181607",
+      "empresa": "Guerreroscr.com",
+      "id": 3
+    },
+    {
+      "nombre": "Eduardo",
+      "email": "gzadrian13@gmail.com",
+      "telefono": "70181607",
+      "empresa": "Guerreroscr.com",
+      "id": 4
+    },
+    {
+      "nombre": "Emily",
+      "email": "adrianson@outlook.com",
+      "telefono": "70181607",
+      "empresa": "Guerreroscr.com",
+      "id": 5
+    }
+  ]
+}
